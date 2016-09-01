@@ -15,7 +15,7 @@ module.exports = function(environment) {
 
     APP: {
       // API host and port
-      ApiUrl: '//example.net/',
+      ApiUrl: 'http://127.0.0.1:8080',
 
       // HTTP mining endpoint
       HttpHost: 'http://example.net',
